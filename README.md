@@ -11,3 +11,4 @@ A level system bot written in JavaScript using [discord.js](https://github.com/d
 | `/rank @UserName` | Check another user rank |
 | `/rlevel` | Add roles to users as they level up |
 | `/rroles` | Check what roles are available when users level up |
+[![Run on Repl.it](https://repl.it/badge/github/NatsumeLS/MashiroBot)](https://repl.it/github/NatsumeLS/MashiroBot)
